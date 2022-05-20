@@ -1,7 +1,7 @@
 Hi 👋 My name is Vincent Gichohi
 ================================
 
-Full Stack Software Developer, Data Analyst, Database Administrator
+Full Stack Software Developer, Data Analyst, Android Developer Database Administrator
 -------------------------------------------------------------------
 
 Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Managing a team of professionals in managing data, ensuring that accurate and correct data is collected.
