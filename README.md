@@ -44,7 +44,14 @@ Experienced software engineer with a passion for developing innovative programs 
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
-
+$.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@a25f40d3-cd83-4b65-9264-d37805937d92/5c536b02-d1c5-4d45-b3f4-bf35e2389fc8.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/VincentGichohi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vincent-gichohi-12769021a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vincentegichohi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
