@@ -13,6 +13,9 @@ Experienced software engineer with a passion for developing innovative programs 
 * 🤝  I'm open to collaborating on Python Django Projects, Javascript , Java, React and Angular Projects.
 * ⚡  Data Science Projects, big data management and data warehousing.
 
+<figure><embed src="https://wakatime.com/share/@a25f40d3-cd83-4b65-9264-d37805937d92/e8f7027e-37a1-44fd-85af-ccc1921bc827.svg"></embed></figure>
+
+
 ### Skills
 
 <p align="left">
