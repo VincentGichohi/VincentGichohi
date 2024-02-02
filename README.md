@@ -8,7 +8,7 @@ Experienced software engineer with a passion for developing innovative programs 
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [vincentegichohi@gmail.com](mailto:vincentegichohi@gmail.com)
-* 🧠  I'm learning Implementing nodejs servers on the back end and also Ruby Language.
+* 🧠  I'm learning Implementing nodejs servers on the back end and also R Language.
 * 🤝  I'm open to collaborating on Python Django Projects, Javascript , Java, React and Angular Projects.
 * ⚡  Data Science Projects, big data management and data warehousing.
 
