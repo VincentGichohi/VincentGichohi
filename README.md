@@ -163,9 +163,9 @@ I care about clean, maintainable code, robust system design, and building engine
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) |
-| 🌐 **Portfolio** | [your-portfolio.dev](https://your-portfolio.dev) |
-| 📧 **Email** | [your@email.com](mailto:your@email.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/your-linkedin]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/vincent-gichohi-12769021a/)) |
+| 🌐 **Portfolio** | [your-portfolio.dev](https://gilded-zabaione-6c5a0f.netlify.app/) |
+| 📧 **Email** | [vincentegichohi@gmail.com](mailto:your@email.com) |
 | 🐙 **GitHub** | [github.com/VincentGichohi](https://github.com/VincentGichohi) |
 
 <br/>
